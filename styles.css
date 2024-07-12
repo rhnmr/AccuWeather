@@ -16,6 +16,15 @@ form {
     margin-bottom: 20px;
 }
 
+.image{
+  width: 100px;
+  height:100px;
+}
+.image2{
+    width: 100px;
+    height:100px;
+  }
+
 #cityInput {
     padding: 10px;
     font-size: 16px;
@@ -35,7 +44,7 @@ button:hover {
     background-color: #45a049;
 }
 
-#weather {
+#weather,#weather2, #weather3 {
     margin-top: 20px;
     padding: 20px;
     border: 1px solid #ccc;
